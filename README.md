@@ -1,5 +1,4 @@
-ANSIBLE-ROLE_JAVA
-ansible-role-java
+ANSIBLE-ROLE_JAVA 
 
 role-java Role
 =========
