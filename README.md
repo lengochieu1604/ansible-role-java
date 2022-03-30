@@ -1,6 +1,4 @@
-ANSIBLE-ROLE_JAVA 
-
-role-java Role
+ROLE_JAVA
 =========
 
 This role installs Java for Windows and Linux  
